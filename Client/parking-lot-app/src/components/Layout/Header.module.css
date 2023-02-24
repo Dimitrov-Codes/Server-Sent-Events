@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: start;
+    background: #143D59;
+
+}
+.logo{
+    max-width: 8rem;
+    scale: 250%;
+    padding-left: 4rem;
+}
